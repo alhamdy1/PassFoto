@@ -10,7 +10,6 @@ import cv2
 import numpy as np
 from PIL import Image, ImageTk
 import os
-import threading
 
 try:
     from ttkthemes import ThemedTk

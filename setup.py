@@ -36,9 +36,9 @@ setup(
     ],
     python_requires=">=3.7",
     install_requires=[
-        "opencv-python>=4.5.0,<5.0.0",
+        "opencv-python>=4.8.1.78,<5.0.0",
         "numpy>=1.19.0,<2.0.0",
-        "Pillow>=8.0.0,<11.0.0",
+        "Pillow>=10.2.0,<11.0.0",
     ],
     extras_require={
         "themes": ["ttkthemes>=3.0.0,<4.0.0"],

@@ -5,7 +5,7 @@ Contains all image enhancement and correction functions.
 
 import cv2
 import numpy as np
-from PIL import Image, ImageEnhance
+from PIL import Image
 import math
 
 
