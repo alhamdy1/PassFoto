@@ -1,0 +1,14 @@
+# PassFoto - Passport Photo Enhancement Application
+# Compatible with Windows 8+ and systems with 6GB RAM
+
+# Core image processing
+# Note: opencv-python >= 4.8.1.78 required to fix CVE-2023-4863
+opencv-python>=4.8.1.78,<5.0.0
+numpy>=1.19.0,<2.0.0
+# Note: Pillow >= 10.2.0 required for security fixes
+Pillow>=10.2.0,<11.0.0
+
+# GUI framework (Tkinter is built-in with Python)
+# Additional GUI enhancements (optional)
+ttkthemes>=3.0.0,<4.0.0
+
